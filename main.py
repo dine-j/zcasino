@@ -9,7 +9,7 @@ def main():
         print "The roulette is about to spin... Your sold: %d$" % sold
         bet = input("How much would you like to bet? \n")
         sold -= bet
-        while true:
+        while True:
             try:
                 player_number = input("On which number? (Please enter a number between 0 and 49) \n")
                 assert player_number >= 0 and player_number < 50
