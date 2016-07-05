@@ -13,6 +13,6 @@ TBC
 ## Aims
 
 * Use new basic Python concepts:
-	* random module
-	* math module
+	* `random` module
+	* `math` module
 * Finish chapter 1 of Learning Python on OpenClassrooms.com
